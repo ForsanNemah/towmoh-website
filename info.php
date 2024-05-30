@@ -70,6 +70,7 @@ $footer_des3="
 <br>
 
 <a href='tel:'.$phone_main.' style='color: white;'>$phone_main</a>
+<br>
 <a href='tel:'.$phone_main2.' style='color: white;'>$phone_main2</a>
 
 <br>
