@@ -47,6 +47,14 @@
         <li class="nav-item">
           <a class="nav-link" href="#footer_id" onclick="toggleNavbar()">تواصل معنا</a>
         </li>
+
+
+
+        <li class="nav-item">
+          <a class="nav-link" href="https://ads.2moh.net/jops/2moh//" onclick="toggleNavbar()"> الوضائف</a>
+        </li>
+
+
       </ul>
     </div>
   </div>
